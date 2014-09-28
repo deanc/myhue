@@ -1,0 +1,11 @@
+{
+    "require": {
+	"symfony/console": "2.5.*"
+        ,"sqmk/Phue": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "DC\\MyHue": "src/"
+        }
+    }
+}
